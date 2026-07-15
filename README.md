@@ -1,4 +1,4 @@
-# Portfólio de Produto — [Seu Nome]
+# Portfólio de Produto — [Luiz Ximenes]
 
 Repositório com estudos de caso reais (dados/nomes generalizados) de decisões de produto e problemas técnicos que analisei, diagnostiquei e conduzi até a resolução.
 
@@ -21,4 +21,4 @@ Cada estudo de caso segue a mesma estrutura, para facilitar comparação:
 
 ## Sobre
 
-Em transição de Suporte N2 (VarejoFácil/SysPDV) para Associate Product Manager. Estudando Scrum (PSM I) e aplicando Kanban na prática.
+Em transição de Suporte N2 para Associate Product Manager. Estudando Scrum (PSM I) e aplicando Kanban na prática.
